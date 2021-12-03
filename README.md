@@ -887,6 +887,7 @@ Here are some companies/projects using Swagger Codegen in production. To add you
 - [Cisco](http://www.cisco.com/)
 - [CloudBoost](https://www.CloudBoost.io/)
 - [Cloudsmith](https://cloudsmith.io/)
+- [Comotion](https://comotion.us/)
 - [Conplement](http://www.conplement.de/)
 - [Cummins](http://www.cummins.com/)
 - [Cupix](http://www.cupix.com)
